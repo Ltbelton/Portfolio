@@ -28,12 +28,11 @@ These projects demonstrate my ability to work with geographic data and create in
 
 ---
 
-# 💻 Web Development Projects
+# 💻 Web Development Projects(Coming Soon)
 
 Websites and front-end projects built using HTML, CSS, and JavaScript.
 
-* Website Project 1 (coming soon)
-* Website Project 2 (coming soon)
+
 
 ---
 
