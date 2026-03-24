@@ -41,8 +41,20 @@ Websites and front-end projects built using HTML, CSS, and JavaScript.
 
 Web and mobile applications developed as part of my coursework and personal projects.
 
-* Web App (add link)
-* Mobile App (add link)
+* Web App (coming soon)
+### Mobile Apps
+
+- **Bicycle Repair App**  
+  🎥 [Watch Demo](https://www.youtube.com/shorts/JCI91p0vNIg)
+
+- **Campground App**  
+  🎥 [Watch Demo](https://www.youtube.com/shorts/QYN12NWMfC8)
+
+- **News App**  
+  🎥 [Watch Demo](https://www.youtube.com/shorts/gJY5bhC0_Eg)
+
+- **Recipe App**  
+  🎥 [Watch Demo](https://www.youtube.com/shorts/SkFqGYJeBdo)
 
 ---
 
