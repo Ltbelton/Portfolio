@@ -32,8 +32,8 @@ These projects demonstrate my ability to work with geographic data and create in
 
 Websites and front-end projects built using HTML, CSS, and JavaScript.
 
-* Website Project 1 (add link)
-* Website Project 2 (add link)
+* Website Project 1 (coming soon)
+* Website Project 2 (coming soon)
 
 ---
 
