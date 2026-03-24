@@ -76,7 +76,7 @@ A web-based GIS application that allows users to navigate maps using voice comma
 
 # 🔗 Connect With Me
 
-* LinkedIn: (www.linkedin.com/in/leniyabelton)
+* LinkedIn: www.linkedin.com/in/leniyabelton
 * GitHub: https://github.com/ltbelton
 
 
