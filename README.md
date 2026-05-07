@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Le'Niya Belton
 
-I am an Information Systems major with a minor in Geographic Information Systems (GIS). I am passionate about combining technology, mapping, and user experience to build interactive applications. My interests include web development, GIS applications, and emerging technologies like AI.
+I am an Information Systems major with a minor in Geographic Information Systems (GIS). I enjoy creating interactive technology projects that combine mapping, accessibility, and user-centered design. My interests include GIS applications, AI, digital mapping, UX, and emerging technologies.
 
 ---
 
