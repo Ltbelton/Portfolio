@@ -65,10 +65,9 @@ A web-based GIS application that allows users to navigate maps using voice comma
 
 # 🛠 Skills
 
-* JavaScript
+* UI/UX
 * HTML / CSS
 * ArcGIS / StoryMaps
-* APIs
 * GitHub
 
 ---
